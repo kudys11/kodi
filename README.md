@@ -1,5 +1,4 @@
- w fazie testow ( instalujesz na wlasna odpowiedzialnosc)
-
+DO INSTALACJI JEDYNIE NA CZYSTE KODI, NIE WOLNO INSTALOWAC ORYGINALNEGO REPO RAMICA WRAZ Z TYM REPO
 https://meserak86.github.io/cimar/
 
 
