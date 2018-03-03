@@ -7,6 +7,5 @@ Repozytorium RAMIC MOD (kopia oryginalnego repo z ktorej staramy sie wyciac zlos
 
 DO INSTALACJI JEDYNIE NA CZYSTE KODI/ PO FRESH START, NIE WOLNO INSTALOWAC ORYGINALNEGO REPO RAMICA WRAZ Z TYM REPO
 ( DORADZAM INSTALOWAC TYLKO NA BOXACH)
-https://meserak86.github.io/cimar/
 
 
